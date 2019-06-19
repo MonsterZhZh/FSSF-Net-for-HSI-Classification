@@ -1,5 +1,7 @@
 # FSSF-Net-for-HSI-Classification
 FSSF-Net for HSI Classification designed in a factorized manner. 
+
+![avatar](./detailed_workflow.png)
 ## Paper
 [Pre-print version](https://arxiv.org/pdf/1904.07461v1.pdf)
 
