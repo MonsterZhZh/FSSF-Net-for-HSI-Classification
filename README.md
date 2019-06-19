@@ -13,3 +13,9 @@ This work has been accepted by IEEE Access titled "Deep Neural Network Based Hyp
 4. net.py: define all sorts of  net's architectures. 
 ## Dataset
 Please visit [Hyperspectral Remote Sensing Scenes](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes).
+## Requirements
+Keras 2.0.8
+
+Tensorflow 1.4.0
+
+[Compatibility](https://docs.floydhub.com/guides/environments/)
